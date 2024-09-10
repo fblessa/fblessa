@@ -4,6 +4,8 @@
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fblessa&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinolopes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on a [Lessons Platform](https://github.com/LuizHenriqueBrazFerreira/lesson-plataform)
+
 ## Technologies
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
