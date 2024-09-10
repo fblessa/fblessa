@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiolessadev/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinolopes&label=Profile%20views&color=0e75b6&style=flat" alt="fblessa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fblessa&label=Profile%20views&color=0e75b6&style=flat" alt="fblessa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabinolopes" alt="fblessa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fblessa" alt="fblessa" /></a> </p>
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fblessa&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinolopes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
