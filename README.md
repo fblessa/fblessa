@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on a [Lessons Platform](https://github.com/LuizHenriqueBrazFerreira/lesson-plataform)
 
+- Learning Vue.js and Nest.js
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fblessa&label=Profile%20views&color=0e75b6&style=flat" alt="fblessa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fblessa" alt="fblessa" /></a> </p>
