@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiolessadev/)
 
-- 🔭 I’m currently working on a [Lessons Platform](https://github.com/LuizHenriqueBrazFerreira/lesson-plataform)
+- 🔭 I’m currently working at [BuildBox](https://github.com/Buildbox-IT-Solutions) and a [Lessons Platform](https://github.com/LuizHenriqueBrazFerreira/lesson-plataform)
 
 - Learning Vue.js and Nest.js
 
