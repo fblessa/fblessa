@@ -24,6 +24,7 @@
 <br>
 
 #### Front-end:
+[<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">]
 [<img src="https://img.shields.io/badge/React-3c3c3c?style=for-the-badge&logo=react&logoColor=61DAFB">](https://pt-br.legacy.reactjs.org/)
 [<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">](https://redux.js.org/)
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
