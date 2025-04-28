@@ -33,7 +33,7 @@
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">](https://getbootstrap.com/)
 
 #### Back-end:
-[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en)
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">(https://nodejs.org/en)
 [<img src="https://img.shields.io/badge/Express%20js-808080?style=for-the-badge&logo=express&logoColor=white">](https://expressjs.com/pt-br/)
 [<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">](https://www.mysql.com/)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
